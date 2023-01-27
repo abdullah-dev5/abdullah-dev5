@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdullah-dev5
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++
+- 👀 I’m interested in Cpp,Java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on Java
+- 📫 How to reach me 
 
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
