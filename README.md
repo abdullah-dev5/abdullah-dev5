@@ -2,7 +2,8 @@
 - 👀 I’m interested in Cpp,Java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me : Instgram username: abdullah.khalids
+- 📫 How to reach me : Instagram username: abdullah.khalids
+- Email : imabdullah.tdm@gmail.com
 
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
