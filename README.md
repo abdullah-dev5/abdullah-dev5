@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cpp,Java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me : Instagram username: abdullah.khalids
+- 📫 How to reach me :
 - Email : imabdullah.tdm@gmail.com
 
 <!---
