@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdullah-dev5
-- 👀 I’m interested in Cpp,Java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning web Development
+- 💞️ I’m looking to collaborate on web Projects.
 - 📫 How to reach me :
 - Email : imabdullah.tdm@gmail.com
 
