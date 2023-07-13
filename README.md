@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on web Projects.
 - 📫 How to reach me :
-- Email : imabdullah.tdm@gmail.com
+- Email : imabdullah.tdm@gmail.com  
 
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
