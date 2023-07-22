@@ -12,9 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev5&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)]
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)---
