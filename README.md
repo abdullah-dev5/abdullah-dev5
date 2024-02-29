@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-dev5&theme=nord_bright)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev5&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev5&theme=nord_bright_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
