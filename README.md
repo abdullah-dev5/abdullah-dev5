@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev5&theme=nord_bright&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&theme=nord_bright&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootsstrap,js,react,redux,nodejs,express,java,linux,bash,cpp,mongodb,mysql,sqlite,git,github,)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nodejs,express,java,linux,bash,cpp,mongodb,mysql,sqlite,git,github,)](https://skillicons.dev)<br>
 
 [![Tools](https://skillicons.dev/icons?i=vite,vscode,vercel,postman,idea,figma)](https://skillicons.dev)
 
