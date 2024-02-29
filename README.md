@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **React**.
 - 💞️ I’m looking to collaborate on **Front End Projects**.
 - 📫 How to reach me :
-- Email : imabdullah.tdm@gmail.com  
+- Email : imabdullah.tdm@gmail.com 
+![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
 
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +23,18 @@ You can click the Preview link to take a look at your changes.
 # Tools
 ![Tools](https://skillicons.dev/icons?i=vite,vscode,vercel,postman,idea,figma)<br/>
 
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)
+
+# Connects
+**Let's Connect and do wonders.**
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+![Discord] (https://discordapp.com/users/abdullah.dev/)
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+
+![Linkedln](https://www.linkedin.com/in/muhammad-abdullah-khalid101/)
+
+
 
 ---
