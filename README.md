@@ -1,4 +1,6 @@
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="500">
+<br><br>
 
 - 👋 Hi, I’m **Muhammad Abdullah**
 - 🌱 I’m currently learning **React**.
