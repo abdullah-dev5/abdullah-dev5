@@ -9,14 +9,11 @@
 <p align='center'> 🔭 I’m currently working on  <b>MERN Stack | Linux  </p>
 <p align='center'> 👯 I’m looking to collaborate on  <b>Mern Stack</b>. </p>
 
-<b>
-imabdullah.tdm@gmail.com
-</b>** </p>
-s
-<br>
-  <br><br>
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
 
+  <br><br>
+<a align="center">
+  ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
+</a>
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
