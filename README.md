@@ -1,13 +1,20 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1000">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1000" height="500" >
 <br><br>
 
-- 👋 Hi, I’m **Muhammad Abdullah**
-- 🌱 I’m currently learning **React**.
-- 💞️ I’m looking to collaborate on **Front End Projects**.
-- 📫 How to reach me :
-- Email : imabdullah.tdm@gmail.com
-  <br>
+<h1 align="center">Hi there 👋, It's me Abdullah</h1>
+
+<br/>
+<p align='center'> 🌱 I’m currently learning <b>Linux | Assembly | Databases </b>. </p>
+<p align='center'> 🔭 I’m currently working on  <b>MERN Stack | Linux  </p>
+<p align='center'> 👯 I’m looking to collaborate on  <b>Mern Stack</b>. </p>
+
+<b>
+imabdullah.tdm@gmail.com
+</b>** </p>
+s
+<br>
+  <br><br>
 ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
 
 <!---
