@@ -14,6 +14,8 @@
  <br>
  </p>
  <br>
+![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
+<br>
  <br>
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,5 +79,4 @@ You can click the Preview link to take a look at your changes.
   <br><br>
 
 
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
 ---
