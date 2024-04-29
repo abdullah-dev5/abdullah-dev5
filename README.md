@@ -76,7 +76,6 @@ You can click the Preview link to take a look at your changes.
 </p>
   <br><br>
 
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0")
-
+![](https://komarev.com/ghpvc/?username=abdullah-dev5&color=blue)
 
 ---
