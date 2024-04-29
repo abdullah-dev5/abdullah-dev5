@@ -13,9 +13,16 @@
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-dev5&theme=nord_bright)<br/>
+<h2 align="center">🏆 GitHub Stats</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev5&theme=nord_bright&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&theme=nord_bright&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dev5&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=dark" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&layout=compact&theme=dark&langs_count=10" width="50%"/>
+</p>
 
  # Tech Stacks 
 ![My_Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nodejs,express,java,linux,bash,cpp,mongodb,mysql,sqlite,git,github,)<br/>
