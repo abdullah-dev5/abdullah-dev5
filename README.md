@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **React**.
 - 💞️ I’m looking to collaborate on **Front End Projects**.
 - 📫 How to reach me :
-- Email : imabdullah.tdm@gmail.com 
+- Email : imabdullah.tdm@gmail.com
+  <br>
 ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
 
 <!---
@@ -54,17 +55,17 @@ You can click the Preview link to take a look at your changes.
  </p>
 <br/>
 
-<h2 align="center">Connects<br/>
-**Let's Connect and do wonders.**</h2>
- 
+<h2 align="center">Connect with me </h2>
+
+<h3 align="center">Let's Connect and do wonders.</h3> 
 <br><br>
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
 <br/>
 
-<a>[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">](https://discordapp.com/users/abdullah.dev/)</a>
-<a>[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">](https://www.linkedin.com/in/muhammad-abdullah-khalid101/)
+<a align="center">[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">](https://discordapp.com/users/abdullah.dev/)</a>
+<a align="center">[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">](https://www.linkedin.com/in/muhammad-abdullah-khalid101/)
 </a></p>
 
 
