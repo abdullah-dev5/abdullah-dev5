@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1000" height="500" >
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1200" height="400"  >
 <br><br>
 
 <h1 align="center">Hi there 👋, It's me Abdullah</h1>
@@ -11,9 +11,13 @@
 
 
   <br><br>
-<a align="center">
-  ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0)<br>
-</a>
+  <p align="center">
+<img  src=" https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=9&color=0"/>
+
+ <br>
+ </p>
+ <br>
+ <br>
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🏆 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dev5&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dev5&theme=dark&show_icons=true&count_private=true" alt="Abdullah's GitHub Stats" width="42.5%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=dark" width="45%"/>
 </p>
 
