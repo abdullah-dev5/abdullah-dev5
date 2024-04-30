@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dev5&theme=dark&show_icons=true&count_private=true" alt="Abdullah's GitHub Stats" width="42.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=dark" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=dark&count_private=true" width="45%"/>
 </p>
 
 <p align="center">
