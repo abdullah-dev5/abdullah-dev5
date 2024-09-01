@@ -1,6 +1,10 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1200" border-radius="25px" >
 <br><br>
+<a align='center' href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=wide&r=rfi" width="652" alt="MuhammaD AbdullaH's Dev Card"/></a>
+<br><br>
+
+
 
 <h1 align="center">Hi there 👋, It's me Abdullah</h1>
 
@@ -81,4 +85,3 @@ You can click the Preview link to take a look at your changes.
 
 
 --
-<a href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=wide&r=rfi" width="652" alt="MuhammaD AbdullaH's Dev Card"/></a>
