@@ -81,4 +81,4 @@ You can click the Preview link to take a look at your changes.
 
 
 --
-<a href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=default&r=rxs" width="356" alt="MuhammaD AbdullaH's Dev Card"/></a>
+<a href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=wide&r=rfi" width="652" alt="MuhammaD AbdullaH's Dev Card"/></a>
