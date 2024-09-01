@@ -1,7 +1,8 @@
+<div align='center'>
 
-<a align='center' href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=wide&r=rfi" width="652" alt="MuhammaD AbdullaH's Dev Card"/></a>
+<a  href="https://app.daily.dev/muhammadabdullah98"><img src="https://api.daily.dev/devcards/v2/10KDwx12MLZQNyf4bZ4bT.png?type=wide&r=rfi" width="652" alt="MuhammaD AbdullaH's Dev Card"/></a>
 <br><br>
-
+</div>
 
 
 <h1 align="center">Hi there 👋, It's me Abdullah</h1>
