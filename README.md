@@ -17,9 +17,11 @@
  <br>
  </p>
  <br>
- 
-![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
-<br>
+ <div align="center">
+   ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
+</div>
+
+   <br>
  <br>
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
