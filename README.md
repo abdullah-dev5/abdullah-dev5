@@ -19,7 +19,7 @@
  <br>
  
 
-[[!](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)]
+![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
   
   <br>
  <br>
@@ -99,7 +99,4 @@ You can click the Preview link to take a look at your changes.
 --
 
 
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=abdullah-dev5&label=Profile%20Views&color=12&pretty=false" />
-</a>
+ [![](https://visitcount.itsvg.in/api?id=abdullah-dev5&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
