@@ -30,12 +30,11 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🏆 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-dev5&theme=dark&show_icons=true&count_private=true" alt="Abdullah's GitHub Stats" width="42.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=dark&count_private=true" width="45%"/>
+    <img  alt="abdullah-dev5's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullah-dev5?cardType=level&theme=prussian&fontFamily=Cagliostro&preferLogin=true&Points.Commits=2&borderRadius=4" />  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&layout=compact&theme=dark&langs_count=10" width="50%"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=prussian" alt="GitHub Streak" /></a>
 </p>
 
 <br>
