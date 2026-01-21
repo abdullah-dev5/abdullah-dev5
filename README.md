@@ -34,10 +34,17 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-dev5&theme=prussian" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdullah-dev5" alt="GitHub Streak" /></a>
 </p>
 
+ <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://img.shields.io/github/followers/abdullah-dev5?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+ 
 <br>
+
+
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
