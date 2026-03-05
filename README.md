@@ -4,44 +4,38 @@
 <br><br>
 </div>
 
+<p align="center">
+  <a href="https://github.com/abdullah-dev5">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Muhammad+Abdullah" alt="Jonah Lawrence" /></a>
 
-<h1 align="center">Hi there 👋, It's me Abdullah</h1>
-
-<br/>
-<p align='center'> 🌱 I’m currently learning <b>Linux | Assembly | Databases </b>. </p>
-<p align='center'> 🔭 I’m currently working on  <b>MERN Stack | Linux  </p>
-<p align='center'> 👯 I’m looking to collaborate on  <b>Mern Stack</b>. </p>
-
-
-  
- <br>
- </p>
- <br>
- 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 
 ![](https://visitcount.itsvg.in/api?id=abdullah-dev5&icon=5&color=12)
   
-  <br>
- <br>
 <!---
 abdullah-dev5/abdullah-dev5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center">🏆 GitHub Stats</h2>
 
-<p align="center">
-    <img  alt="abdullah-dev5's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/abdullah-dev5?cardType=level&theme=prussian&fontFamily=Cagliostro&preferLogin=true&Points.Commits=2&borderRadius=4" />  
-</p>
+***<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>***
+<hr></hr>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdullah-dev5" alt="GitHub Streak" /></a>
-</p>
+<div align="center" >
 
- <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://img.shields.io/github/followers/abdullah-dev5?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
- 
-<br>
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-dev5&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abdullah-dev5's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdullah-dev5&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abdullah-dev5's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-dev5&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 
 
